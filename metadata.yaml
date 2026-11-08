@@ -1,7 +1,7 @@
-name: astrbot-plugin-cute-status
+name: astrbot_plugin_cute_status
 display_name: Cute Status 可爱运行状态
 desc: 用Kawaii 插画状态卡查看 CPU、内存、Swap、磁盘和 AstrBot 运行时长。
 version: v1.0.3
 author: Cvandia
-repo: https://github.com/Cvandia/astrbot-plugin-cute-status
+repo: https://github.com/Cvandia/astrbot_plugin_cute_status
 astrbot_version: '>=4.5.0'
