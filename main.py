@@ -17,7 +17,7 @@ from .status import collect, text_status
     "astrbot-plugin-cute-status",
     "Cvandia",
     "可爱的服务器状态卡片",
-    "1.0.2",
+    "1.0.4",
     "https://github.com/Cvandia/astrbot-plugin-cute-status",
 )
 class CuteStatusPlugin(Star):

@@ -11,7 +11,7 @@ from .status import Snapshot
 ASSETS = Path(__file__).parent / "assets"
 KAWAII = ASSETS / "kawaii"
 COLORS = ((84, 173, 255), (255, 179, 204), (251, 170, 147), (184, 170, 159))
-PLUGIN_VERSION = "1.0.2"
+PLUGIN_VERSION = "1.0.4"
 
 
 def _fit(draw, value, font, width):
